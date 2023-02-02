@@ -12,3 +12,13 @@ def forwardorback(lists):
 
 forwardorback([3,5,6,3])
 
+while True:
+    try:
+        x = int(input("Please enter a number: "))
+    except ValueError:
+        print("Oops!  That was not a valid number.  Try again...")
+    else:
+        print ('Thanks,',x,'is indeed an integer')
+        break
+
+print('all done, bye')
