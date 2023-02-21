@@ -5,5 +5,5 @@
 ```python
 x = "That was a bad joke"
 ```
-<a href="https://www.youtube.com/watch?v=uAcYlKyUgAo&ab_channel=MrWildNature" target="_blank"><img src="https://www.youtube.com/watch?v=uAcYlKyUgAo&ab_channel=MrWildNature" 
-alt="How to Build a Shelter in the Jungle" width="240" height="180" border="10" /></a>
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/uAcYlKyUgAo&ab_channel=MrWildNature/0.jpg)](https://www.youtube.com/watch?v=uAcYlKyUgAo&ab_channel=MrWildNature)
