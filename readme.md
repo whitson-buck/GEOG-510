@@ -24,4 +24,4 @@ Greatest basketball players ever according to me:
 * Steph
 
 Come back in a bit and Luka will probably be on this list
-![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fftw.usatoday.com%2Fwp-content%2Fuploads%2Fsites%2F90%2F2022%2F05%2FScreen-Shot-2022-05-15-at-9.05.02-PM-e1652670122468.png%3Fw%3D1000%26h%3D600%26crop%3D1&f=1&nofb=1&ipt=2baf724788b93370d54e0aab941142076c6b2a4407f528ff3bf912759c242b69&ipo=images "Luka Smiling")
+![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fakns-images.eonline.com%2Feol_images%2FEntire_Site%2F202003%2Frs_600x600-200103100633-600-Luka-Doncic-NBA.jpg%3Ffit%3Dinside%257C192%3A192%26output-quality%3D90&f=1&nofb=1&ipt=6f73c044c91b5e193a8f8f1c0ca6a61312fddf3a716785619ec880c2c5eee26d&ipo=images "Luka Smiling")
