@@ -13,9 +13,9 @@ x = "That was a bad joke"
 Greatest basketball players ever according to me:
 
 * Jordan
-   Greatest player in terms of image and status. Brought the game to international stage. 6-6 in the finals (which is a team accomplishment but still impressive.)
+⋅⋅⋅Greatest player in terms of image and status. Brought the game to international stage. 6-6 in the finals (which is a team accomplishment but still impressive.)
 * Lebron
-   Best player to ever touch a basketball. Physical dominance, technical wizardry, unparalleled longevity, greatest scorer of baskets in the game called basketball.
+⋅⋅⋅Best player to ever touch a basketball. Physical dominance, technical wizardry, unparalleled longevity, greatest scorer of baskets in the game called basketball.
 * Kareem
 * Magic
 * Shaq
