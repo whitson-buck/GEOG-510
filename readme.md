@@ -6,4 +6,4 @@
 x = "That was a bad joke"
 ```
 <a href="https://www.youtube.com/watch?v=uAcYlKyUgAo&ab_channel=MrWildNature" target="_blank"><img src="https://www.youtube.com/watch?v=uAcYlKyUgAo&ab_channel=MrWildNature" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="How to Build a Shelter in the Jungle" width="240" height="180" border="10" /></a>
