@@ -12,8 +12,10 @@ x = "That was a bad joke"
 
 Greatest basketball players ever according to me:
 
-* Jordan (Greatest ever)
-* Lebron (Best player ever)
+* Jordan
+   Greatest player in terms of image and status. Brought the game to international stage. 6-6 in the finals (which is a team accomplishment but still impressive.)
+* Lebron
+   Best player to ever touch a basketball. Physical dominance, technical wizardry, unparalleled longevity, greatest scorer of baskets in the game called basketball.
 * Kareem
 * Magic
 * Shaq
@@ -23,5 +25,5 @@ Greatest basketball players ever according to me:
 * Tim Duncan
 * Steph
 
-Come back in a bit and Luka will probably be on this list
+Come back in a bit and Luka will probably be on this list... 
 ![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.plentygram.com%2Fwp-content%2Fuploads%2F2022%2F12%2Flukadoncic.jpg&f=1&nofb=1&ipt=2194daacb2a80d45b0b769e8d813c14bdd4f48aa02d1d5e8bcf236336c0ab26a&ipo=images "Luka Smiling")
